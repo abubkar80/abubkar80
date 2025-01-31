@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abubkar80
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning building smart contract using solidity
+- 👋 Hi, I’m @abubkar usman muhammad
+- 👀 I’m interested in programming and AI
+- 🌱 I’m currently learning building smart contract using solidity 
 - 💞️ I’m looking to collaborate on smart contract development
 - 📫 How to reach me abubakarusmanmuhammad80@gmail.com
 
