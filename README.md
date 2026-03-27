@@ -17,7 +17,7 @@ I build at the intersection of:
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/abubakar-usman-malori
- 
+- Email: abubakarusmanmuhammad80@gmail.com
 <!---
 abubkar80/abubkar80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
