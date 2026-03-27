@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @abubkar usman muhammad
-- 👀 I’m interested in programming, Blockchain, web3 and AI
-- 🌱 I’m currently learning building smart contract using solidity 
-- 💞️ I’m looking to collaborate on smart contract development, smart contract auditing
-- 📫 How to reach me abubakarusmanmuhammad80@gmail.com
+# Abubakar Usman Muhammad
+
+Computer Science Graduate | Blockchain Developer | AI & Cloud Enthusiast  
+
+I build at the intersection of:
+- Blockchain (Solidity, Ethereum)
+- Artificial Intelligence
+- Cloud Computing (Google Cloud)
+
+## Current Focus
+- AI + Cloud Projects
+- Smart Contract Development
+- Real-world scalable systems
+
+## Projects
+- Blockchain Supply Chain System (Final Year Project)
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/abubakar-usman-malori
  
 <!---
 abubkar80/abubkar80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
